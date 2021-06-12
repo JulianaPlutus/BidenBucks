@@ -6,10 +6,9 @@ You Know - The Guys Who Wasn't Jeffrey Epstein's Best Friend In The 80's &  90's
 10,000,000,000 Supply
 
 *9% Tax - Breakdown
- -2.5% Fee to all holders
- -1% Burned
+ -3% Fee to all holders
  -3% LP
- -2.5% Marketing
+ -3% Marketing
 
 Lower Tax Than Trump And We Won't Incite Insurrection
 
