@@ -2,7 +2,7 @@
 /**
 
 The Token For Joe Biden
-You Know - The Guys Who Wasn't Jeffrey Epstein's Best Friend In The 80's &  90's
+You Know - The Guy Who Wasn't Jeffrey Epstein's Best Friend In The 80's &  90's
 10,000,000,000 Supply
 
 *9% Tax - Breakdown
