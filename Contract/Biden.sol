@@ -203,7 +203,7 @@ abstract contract Ownable is Context {
     event OwnershipTransferred(address indexed previousOwner, address indexed newOwner);
 
     constructor () {
-        _owner = 0x8A39A3361126E14e027CB7B6ceB55797F07eFe25;
+        _owner = 0x569346Bd2E329F4514aE840364ccc60b6009A76a;
         emit OwnershipTransferred(address(0), _owner);
     }
 
@@ -443,7 +443,7 @@ contract Biden is Context, IERC20, Ownable {
     mapping (address => bool) private _isExcluded;
     address[] private _excluded;
 
-    address private _charityWalletAddress = 0x0CD2B10aD4FCd42a7bbF863406fe859E4b39C20a;
+    address private _charityWalletAddress = 0x2f78270B8e052702dfd72942325AB5784C4fE30B;
    
     uint256 private constant MAX = ~uint256(0);
     uint256 private _tTotal = 10000000000  * 10**9;
