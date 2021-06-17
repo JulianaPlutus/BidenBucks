@@ -203,7 +203,7 @@ abstract contract Ownable is Context {
     event OwnershipTransferred(address indexed previousOwner, address indexed newOwner);
 
     constructor () {
-        _owner = 0x569346Bd2E329F4514aE840364ccc60b6009A76a;
+        _owner = 0x69B0da58986D2EAFAE9B5DfA766d0283E3510b55;
         emit OwnershipTransferred(address(0), _owner);
     }
 
