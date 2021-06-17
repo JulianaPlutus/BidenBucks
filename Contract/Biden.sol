@@ -451,7 +451,7 @@ contract Biden is Context, IERC20, Ownable {
     uint256 private _tFeeTotal;
 
     string private _name = "Biden Bucks Token";
-    string private _symbol = "BBT";
+    string private _symbol = "BIDEN";
     uint8 private _decimals = 9;
     
     uint256 public _taxFee = 0;
